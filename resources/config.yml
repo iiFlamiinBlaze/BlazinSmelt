@@ -1,0 +1,29 @@
+#  ____  _            _______ _          _____
+# |  _ \| |          |__   __| |        |  __ \
+# | |_) | | __ _ _______| |  | |__   ___| |  | | _____   __
+# |  _ <| |/ _` |_  / _ \ |  | '_ \ / _ \ |  | |/ _ \ \ / /
+# | |_) | | (_| |/ /  __/ |  | | | |  __/ |__| |  __/\ V /
+# |____/|_|\__,_/___\___|_|  |_| |_|\___|_____/ \___| \_/
+
+# BlazinSmelt Configuration File:
+#   Default Config:
+#     auto-inv: "on"
+#     auto-smelt: "off"
+#     inv-full-message: "&cYour inventory is full"
+#     economy: "off"
+#     auto-smelt-price: 100
+
+# The below config turns on/off the auto inv capability (OPTIONS: on and off)
+auto-inv: "on"
+
+# The below config turns on/off the auto smelt capability (OPTIONS: on and off)
+auto-smelt: "off"
+
+# The below config is the message that is sent when your inventory is full (NOTE: Use & for color coding)
+inv-full-message: "&cYour inventory is full"
+
+# The below config turns on payment for when you use auto smelt (OPTIONS: on and off)
+economy: "off"
+
+# The below config is the price you pay when you smelt (NOTE: economy option must be on for this to work)
+auto-smelt-price: 100
